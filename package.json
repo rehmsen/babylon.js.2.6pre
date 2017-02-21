@@ -12,17 +12,17 @@
     "type": "git",
     "url": "https://github.com/rehmsen/babylon.js.2.6pre.git#v2.5"
   },
-  "main": "babylon.v2.5.js",
+  "main": "babylon.js",
   "files": [
-    "babylon.2.5.d.ts",
-    "babylon.2.5.js",
-    "babylon.2.5.max.js",
-    "babylon.2.5.noworker.js",
-    "babylon.2.5.core.js",
+    "babylon.d.ts",
+    "babylon.js",
+    "babylon.max.js",
+    "babylon.noworker.js",
+    "babylon.core.js",
     "Oimo.js",
     "package.json"
   ],
-  "typings": "babylon.2.5.d.ts",
+  "typings": "babylon.d.ts",
   "keywords": [
     "3D",
     "javascript",
